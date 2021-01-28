@@ -94,7 +94,7 @@ Also included in this material is the code from the live coding session.
   - When first learning, it's okay to keep things simple by using just the `.class` selector  
   
   ### Pseudo    
-  - [Pseudo classes](https://www.w3schools.com/css/css_pseudo_classes.asp)define a special state of an element (e.g., hover)    
+  - [Pseudo classes](https://www.w3schools.com/css/css_pseudo_classes.asp) define a special state of an element (e.g., hover)    
   - [Pseudo elements](https://www.w3schools.com/css/css_pseudo_elements.asp) style specific parts of an element (e.g., first letter of a div)  
   
   ### Animations  
@@ -116,5 +116,3 @@ The live coding session continues working on the live code from the previous les
  8. Use the `position` property to position the 6 inner-most elements in unique places within the 2 middle divs (hint: use position absolute with top, right, bottom, or left on an element nested inside a positioned element)    
  9. Add an animation that increases the scale of the enabled button when you hover over it 
  10. Add an animation that moves the disabled button left when you hover over it  
- 
-
