@@ -68,18 +68,10 @@ Also included in this material is the code from the live coding session.
   - Here is an example inside an HTML file:
   
   ```html
-      <p
-        style="
-              background-color: aliceblue;
-              color: gray;
-              margin: 10px;
-              padding: 20px;
-              width: 50%;
-            "
-      >
+      <p style="color: gray; margin: 10px; padding: 20px; width: 50%;">
         This is text inside a paragraph tag.
       </p>
-    ```
+  ```
    
   ### Examples of CSS Style Properties for Design  
   - [margin](https://www.w3schools.com/css/css_margin.asp)  
