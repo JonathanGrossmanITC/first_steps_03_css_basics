@@ -7,7 +7,7 @@ This also lesson helps prepare you for making your personal portfolio site. The 
 In this lesson, you learn:  
 
 - Hour 1: [Intro to CSS](#intro-to-css)    
-- Hour 2: [Writing Custom CSS Classes](#writing-custom-css-lasses)   
+- Hour 2: [Writing Custom CSS Classes](#writing-custom-css-classes)   
 - Hour 3: [CSS Live Coding](#css-live-coding)  
 
 The topics below outline what you learn in the live session. After the live session, you can use this material as a resource for guided self-learning. This document will serve you as a roadmap for gaining repetition with the material that you learn during the live session.   
@@ -85,7 +85,7 @@ Also included in this material is the code from the live coding session.
   - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
   - [Grid Layout](https://css-tricks.com/snippets/css/complete-guide-grid/)  
 
-## [Writing Custom CSS Classes](#writing-custom-css-lasses)   
+## [Writing Custom CSS Classes](#writing-custom-css-classes)   
   
   ### Selectors
   - CSS selectors give your versatility when selecting HTML elements for style  
