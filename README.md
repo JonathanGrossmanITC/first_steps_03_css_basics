@@ -1,8 +1,8 @@
 # CSS Basics  
 
-Welcome to the third lesson! In this lesson, you learn the basics of CSS. You start with an introduction to CSS in which you learn about CSS syntax, basic style properties, and how to connect your HTML and CSS. Next, you learn how to write your own custom CSS classes by writing classes for common features on a webpage. Finally, you see a live coding example of using CSS to style a webpage. The live coding session reinforce what you learn in the lesson, and also demonstrates how to make animations. 
+Welcome to the third lesson! In this lesson, you learn the basics of CSS. You start with an introduction to CSS in which you learn about CSS syntax, basic style properties, and how to connect your HTML and CSS. Next, you learn how to write your own custom CSS classes by exploring CSS selectors, pseudo classes, pseudo elements, and animations. Finally, you see a live coding example of using CSS to style a webpage. The live coding session reinforce what you learn in the lesson. 
 
-This lesson helps prepare you for making your personal portfolio site. The code from the session is included in this repository. You can use it however you like, but as with any code you get from someone else, make sure you understand it well enough to explain it to someone before putting it in your own projects.  
+This also lesson helps prepare you for making your personal portfolio site. The code from the session is included in this repository. You can use it however you like, but as with any code you get from someone else, make sure you understand it well enough to explain it to someone before putting it in your own projects.  
 
 In this lesson, you learn:  
 
@@ -93,12 +93,35 @@ Also included in this material is the code from the live coding session.
   - [Grid Layout](https://css-tricks.com/snippets/css/complete-guide-grid/)  
 
 ## [Writing Custom CSS Classes](#writing-custom-css-lasses)   
+  
+  ### Selectors
+  - CSS selectors give your versatility when selecting HTML elements for style  
+  - You saw an example of a selector above (i.e., `.name-of-your-class` is a `.class` selector)  
+  - Look at this list of other [CSS selectors](https://www.w3schools.com/cssref/css_selectors.asp)  
+  - When first learning, it's okay to keep things simple by using just the `.class` selector  
+  
+  ### Pseudo    
+  - [Pseudo classes](https://www.w3schools.com/css/css_pseudo_classes.asp)define a special state of an element (e.g., hover)    
+  - [Pseudo elements](https://www.w3schools.com/css/css_pseudo_elements.asp) style specific parts of an element (e.g., first letter of a div)  
+  
+  ### Animations  
+  - Change property values gradually over a given time using [transitions](https://www.w3schools.com/css/css3_transitions.asp) or [keyframes](https://www.w3schools.com/css/css3_animations.asp) in combination with pseudo classes  
+  - Learn more about [transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) 
+  - Examples of [simple animations](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)  
     
 ## [CSS Live Coding](#css-live-coding)  
-  1. Add add an animation that changes a button's background color when hovered over  
-  2.  
-  3.  
- 
-With some knowledge and resources in hand, now you are ready for live coding. In the live coding session, apply what you learned above. As an extra challenge, the last task asks you to do something you haven't yet learned. The tasks are:  
+
+The live coding session continues working on the live code from the previous lesson. Here are the tasks:
+
+ 1. Style your title and subtitle by overriding their default font-size, color, and font-family
+ 2. Style the three links to remove the text-decoration, add some padding and margin, add a border and border-radius, add a cursor, align them horizontally, not vertically
+ 3. Add a side bar to your page that goes from the top to the bottom of your page on the right side and make it 200px wide; add other style to make it look professional; delete the div on the left side of your page from the previous lesson     
+ 4. Make the images circles and put one image in the sidebar and the other on the main part of the page; make the sidebar image small and the main image large; add one word of text below the small image  
+ 5. Add a placeholder to your text input, remove the border, and make the background color change when in focus 
+ 6. Add custom styles to each of your other two inputs  
+ 7. Add a card to your page that is the shape of a rectangle and put inside the card the title and subtitle  
+ 8. Use the `position` property to position the 6 inner-most elements in unique places within the 2 middle divs (hint: use position absolute with top, right, bottom, or left on an element nested inside a positioned element)    
+ 9. Add an animation that increases the scale of the enabled button when you hover over it 
+ 10. Add an animation that moves the disabled button left when you hover over it  
  
 
