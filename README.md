@@ -31,7 +31,6 @@ Also included in this material is the code from the live coding session.
   - In your .css file, use the following syntax:
   
   ```css
-  
   div {
       border-radius: 5px;
       color: orange;
@@ -47,6 +46,7 @@ Also included in this material is the code from the live coding session.
       padding: 10px
     }
   ```
+  
   - If writing a class for a tag type, you use the tag name: `p { . . .}` and the class applies to all tags of that type
   - The class name starts with `.` for custom classes followed by a name you give it; set any HTML element's `class` attribute to that name to give it that class's style     
   
@@ -55,6 +55,7 @@ Also included in this material is the code from the live coding session.
   ```html
     <div class="name-of-your-class>Welcom to ITC!</div>
   ```
+  
   - You can apply a CSS class to as many HTML elements as you want  
   - For custom names, use names that describes the HTML element 
   - Make your custom CSS names nouns because your classes apply to objects, not functions  
