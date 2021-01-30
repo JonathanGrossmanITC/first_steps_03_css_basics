@@ -2,7 +2,7 @@
 
 Welcome to the third lesson! In this lesson, you learn the basics of CSS. You start with an introduction to CSS in which you learn about CSS syntax, basic style properties, and how to connect your HTML and CSS. Next, you learn how to write your own custom CSS classes by exploring CSS selectors, pseudo classes, pseudo elements, and animations. Finally, you see a live coding example of using CSS to style a webpage. The live coding session reinforce what you learn in the lesson. 
 
-This also lesson helps prepare you for making your personal portfolio site. The code from the session is included in this repository. You can use it however you like, but as with any code you get from someone else, make sure you understand it well enough to explain it to someone before putting it in your own projects.  
+This lesson also helps prepare you for making your personal portfolio site. The code from the session is included in this repository. You can use it however you like, but as with any code you get from someone else, make sure you understand it well enough to explain it to someone before putting it in your own projects.  
 
 In this lesson, you learn:  
 
@@ -11,8 +11,6 @@ In this lesson, you learn:
 - Hour 3: [CSS Live Coding](#css-live-coding)  
 
 The topics below outline what you learn in the live session. After the live session, you can use this material as a resource for guided self-learning. This document will serve you as a roadmap for gaining repetition with the material that you learn during the live session.   
-
-Also included in this material is the code from the live coding session.  
 
 ## [Intro to CSS](#intro-to-css)  
 
