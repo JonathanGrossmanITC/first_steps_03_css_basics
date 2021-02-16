@@ -86,7 +86,7 @@ The topics below outline what you learn in the live session. After the live sess
 ## [Writing Custom CSS Classes](#writing-custom-css-classes)   
   
   ### Selectors
-  - CSS selectors give your versatility when selecting HTML elements for style  
+  - CSS selectors give you versatility when selecting HTML elements for style  
   - You saw an example of a selector above (i.e., `.name-of-your-class` is a `.class` selector)  
   - Look at this list of other [CSS selectors](https://www.w3schools.com/cssref/css_selectors.asp)  
   - When first learning, it's okay to keep things simple by using just the `.class` selector  
