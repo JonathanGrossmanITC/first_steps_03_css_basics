@@ -51,7 +51,7 @@ The topics below outline what you learn in the live session. After the live sess
   - In your HTML file, apply the class to HTML elements like this:
   
   ```html
-    <div class="name-of-your-class>Welcome to ITC!</div>
+    <div class="name-of-your-class">Welcome to ITC!</div>
   ```
   
   - You can apply a CSS class to as many HTML elements as you want  
