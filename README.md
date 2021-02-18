@@ -32,15 +32,15 @@ The topics below outline what you learn in the live session. After the live sess
   div {
       border-radius: 5px;
       color: orange;
-      font-size: 18px:
-      padding: 10px
-      margin: 10x
+      font-size: 18px;
+      padding: 10px;
+      margin: 10px;
   }
   
   .name-of-your-class {
       background-color: blue;
-      font-size: 24px:
-      padding: 10px
+      font-size: 24px;
+      padding: 10px;
     }
   ```
   
