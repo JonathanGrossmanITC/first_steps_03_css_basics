@@ -38,7 +38,6 @@ The topics below outline what you learn in the live session. After the live sess
   }
   
   .name-of-your-class {
-      // style propeties here
       background-color: blue;
       font-size: 24px:
       padding: 10px
